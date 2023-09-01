@@ -1,0 +1,928 @@
+{
+  "cols":  ["Infinitive", "Past Simple", "Past Participle", "Meaning", "Notes"],
+  "values": [
+    [
+      "arise [ əˈraɪz ]",
+      "arose [ əˈrəʊz ]",
+      "arisen [ əˈrɪz(ə)n ]",
+      "to happen; to start to exist (especially of a problem or a difficult situation)<br />\nto get up from bed, or to stand up (literary or old use)"
+    ],
+    [
+      "awake [ əˈweɪk ]",
+      "awoke [ əˈwəʊk ]",
+      "awoken [ əˈwəʊ.kən ]",
+      "to wake up; to make someone wake up<br />\nif an emotion awakes or something awakes an emotion, you start to feel that emotion"
+    ],
+    [
+      "be [ bi ]",
+      "was, were [  ]",
+      "been [ biːn ]",
+      "to exist; to be present (linking verb)<br />\nto be located; to be in a place"
+    ],
+    [
+      "bear [ beə(r) ]",
+      "bore [ bɔː(r) ]",
+      "born [ bɔːn ]",
+      "to be able to accept and deal with something unpleasant (usually in negatives or questions)"
+    ],
+    [
+      "beat [ biːt ]",
+      "beat [ biːt ]",
+      "beaten [ ˈbiː.tən ]",
+      "to hit someone or something many times, usually very hard<br />\n"
+    ],
+    [
+      "become [ bɪˈkʌm ]",
+      "became [ bɪˈkeɪm ]",
+      "become [ bɪˈkʌm ]",
+      "to start to be something (linking verb)"
+    ],
+    [
+      "begin [ bɪˈɡɪn ]",
+      "began [ bɪˈɡæn ]",
+      "begun [ bɪˈɡʌn ]",
+      "to start happening or existing<br />\nto start doing something; to do the first part of something"
+    ],
+    [
+      "bend [ bend ]",
+      "bent [ bent ]",
+      "bent [ bent ]",
+      "to move the top part of your body forwards and downwards<br />\nto become curved or folded and not straight"
+    ],
+    [
+      "bet [ bet ]",
+      "bet [ bet ]",
+      "bet [ bet ]",
+      "to risk money on a race or an event by trying to predict the result"
+    ],
+    [
+      "bind [ baɪnd ]",
+      "bound [ baʊnd ]",
+      "bound [ baʊnd ]",
+      "to tie someone or something with rope or string<br />\nto unite people or organizations so that they live or work together more happily or effectively"
+    ],
+    [
+      "bite [ baɪt ]",
+      "bit [ bɪt ]",
+      "bitten [ ˈbɪt.ən ]",
+      "to use your teeth to cut or break something, usually in order to eat it<br />\nto wound someone by making a small hole or mark in their skin (of snakes, insects)"
+    ],
+    [
+      "bleed [ bliːd ]",
+      "bled [ bled ]",
+      "bled [ bled ]",
+      "to lose blood, especially from a wound or an injury"
+    ],
+    [
+      "blow [ bləʊ ]",
+      "blew [ bluː ]",
+      "blown [ bləʊn ]",
+      "to send out air from the mouth<br />\nif wind or air blows, the air moves"
+    ],
+    [
+      "break [ breɪk ]",
+      "broke [ brəʊk ]",
+      "broken [ ˈbrəʊkən ]",
+      "to make something separate into two or more pieces, for example by hitting or dropping it<br />\nto stop working as a result of being damaged; to damage something and stop it from working<br />\nto do something that is against the law"
+    ],
+    [
+      "bring [ brɪŋ ]",
+      "brought [ brɔːt ]",
+      "brought [ brɔːt ]",
+      "to come to a place with someone or something<br />\nto get something for someone and give it to them"
+    ],
+    [
+      "broadcast [ ˈbrɔːdkɑːst ]",
+      "broadcast* [ ˈbrɔːdkɑːst ]",
+      "broadcast* [ ˈbrɔːdkɑːst ]",
+      "to send out programmes on television or radio",
+      "This verb can also be used as a regular verb (more often in American English): broadcast &#8211; broadcasted &#8211; broadcasted. However, irregular forms broadcast &#8211; broadcast &#8211; broadcast are more common than regular ones."
+    ],
+    [
+      "build [ bɪld ]",
+      "built [ bɪlt ]",
+      "built [ bɪlt ]",
+      "to make something, especially a building, by putting parts together<br />\nto create or develop something"
+    ],
+    [
+      "burn [ bɜːn ]",
+      "burnt* [ bɜːnt ]",
+      "burnt* [ bɜːnt ]",
+      "to produce flames and heat<br />\nto damage or destroy something with fire",
+      "Irregular forms burn &#8211; burnt &#8211; burnt are common in British English. In American English it is used as a regular verb burn &#8211; burned &#8211; burned."
+    ],
+    [
+      "burst [ bɜːst ]",
+      "burst [ bɜːst ]",
+      "burst [ bɜːst ]",
+      "to break open or apart, especially because of pressure from inside<br />\nto make something break in this way"
+    ],
+    [
+      "buy [ baɪ ]",
+      "bought [ bɔːt ]",
+      "bought [ bɔːt ]",
+      "to get something by paying money for it"
+    ],
+    [
+      "cast [ kɑːst ]",
+      "cast [ kɑːst ]",
+      "cast [ kɑːst ]",
+      "to choose an actor for a particular part in a film or play<br />\nto look at someone or something in a particular way<br />\nto throw someone or something somewhere, especially using force (literary)"
+    ],
+    [
+      "catch [ kætʃ ]",
+      "caught [ kɔːt ]",
+      "caught [ kɔːt ]",
+      "to stop someone or something that is moving through the air by getting hold of it<br />\nto find and stop a person or animal who is trying to escape"
+    ],
+    [
+      "choose [ tʃuːz ]",
+      "chose [ tʃəʊz ]",
+      "chosen [ ˈtʃəʊ.zən ]",
+      "to decide which thing you want"
+    ],
+    [
+      "cling [ klɪŋ ]",
+      "clung [ klʌŋ ]",
+      "clung [ klʌŋ ]",
+      "to hold someone or something tightly, especially because you are frightened<br />\nto stick to something"
+    ],
+    [
+      "come [ kʌm ]",
+      "came [ keɪm ]",
+      "come [ kʌm ]",
+      "to move to or towards a person or place<br />\nto arrive somewhere or go to a place"
+    ],
+    [
+      "creep [ kriːp ]",
+      "crept [ krept ]",
+      "crept [ krept ]",
+      "if someone creeps somewhere, they move there quietly and slowly"
+    ],
+    [
+      "cut [ kʌt ]",
+      "cut [ kʌt ]",
+      "cut [ kʌt ]",
+      "to remove something or a part of something, using a knife<br />\nto injure a part of your body with something sharp that cuts the skin"
+    ],
+    [
+      "deal [ diːl ]",
+      "dealt [ delt ]",
+      "dealt [ delt ]",
+      "to give cards to players in a game<br />\nto buy and sell illegal drugs"
+    ],
+    [
+      "dig [ dɪɡ ]",
+      "dug [ dʌɡ ]",
+      "dug [ dʌɡ ]",
+      "to make a hole in the ground or to move soil from one place to another using your hands, a tool or a machine<br />\nto remove something from the ground with a tool"
+    ],
+    [
+      "do [ du ]",
+      "did [ dɪd ]",
+      "done [ dʌn ]",
+      "to work at or perform an activity or a task"
+    ],
+    [
+      "draw [ drɔː ]",
+      "drew [ druː ]",
+      "drawn [ drɔːn ]",
+      "to produce a picture by making lines or marks, usually with a pen or pencil<br />\nto move something or someone by pulling it or them gently"
+    ],
+    [
+      "dream [ driːm ]",
+      "dreamt* [ dremt ]",
+      "dreamt* [ dremt ]",
+      "to experience events and images in your mind while you are sleeping<br />\nto imagine and think about something that you would like to happen",
+      "Irregular forms dream &#8211; dreamt &#8211; dreamt are common in British English. In American English it is used as a regular verb dream &#8211; dreamed &#8211; dreamed."
+    ],
+    [
+      "drink [ drɪŋk ]",
+      "drank [ dræŋk ]",
+      "drunk [ drʌŋk ]",
+      "to take liquid into your mouth and swallow it"
+    ],
+    [
+      "drive [ draɪv ]",
+      "drove [ drəʊv ]",
+      "driven [ ˈdrɪv.ən ]",
+      "to operate a vehicle so that it goes in a particular direction<br />\nto take someone somewhere in a car, taxi"
+    ],
+    [
+      "dwell [ dwel ]",
+      "dwelt [ dwelt ]",
+      "dwelt [ dwelt ]",
+      "to live somewhere"
+    ],
+    [
+      "eat [ iːt ]",
+      "ate [ et ]",
+      "eaten [ ˈiːt(ə)n ]",
+      "to put food in your mouth, chew it and swallow it<br />\nto have a meal"
+    ],
+    [
+      "fall [ fɔːl ]",
+      "fell [ fel ]",
+      "fallen [ ˈfɔː.lən ]",
+      "to drop down from a higher level to a lower level<br />\nto become lower in level, amount, or value"
+    ],
+    [
+      "feed [ fiːd ]",
+      "fed [ fed ]",
+      "fed [ fed ]",
+      "to give food to a person or an animal"
+    ],
+    [
+      "feel [ fiːl ]",
+      "felt [ felt ]",
+      "felt [ felt ]",
+      "to experience an emotion or a physical feeling (linking verb)<br />\nto touch something with your hand so that you can discover what it is like"
+    ],
+    [
+      "fight [ faɪt ]",
+      "fought [ fɔːt ]",
+      "fought [ fɔːt ]",
+      "to take part in a war or battle against an enemy<br />\nto struggle physically with somebody<br />\nto try hard to stop, deal with or oppose something bad"
+    ],
+    [
+      "find [ faɪnd ]",
+      "found [ faʊnd ]",
+      "found [ faʊnd ]",
+      "to discover something, or to see where it is by searching for it<br />\nto discover something or someone by chance<br />\nto have a particular feeling or opinion about something"
+    ],
+    [
+      "fit [ fɪt ]",
+      "fit* [ fɪt ]",
+      "fit* [ fɪt ]",
+      "to be the right shape and size for someone or something (never progressive)<br />\nto put or fix something somewhere",
+      "This verb is used as a regular verb in British English: fit &#8211; fitted &#8211; fitted. Irregular forms fit &#8211; fit &#8211; fit are common in American English. However, fit is not used in NAmE as the past participle in the passive."
+    ],
+    [
+      "flee [ fliː ]",
+      "fled [ fled ]",
+      "fled [ fled ]",
+      "to escape from a dangerous situation or place very quickly"
+    ],
+    [
+      "fling [ flɪŋ ]",
+      "flung [ flʌŋ ]",
+      "flung [ flʌŋ ]",
+      "to throw something carelessly or with a lot of force<br />\nto move yourself or part of your body suddenly and with a lot of force"
+    ],
+    [
+      "fly [ flaɪ ]",
+      "flew [ fluː ]",
+      "flown [ fləʊn ]",
+      "to move through the air, using wings (of birds or insects)<br />\nto move through air or space<br />\nto travel by plane"
+    ],
+    [
+      "forbid [ fəˈbɪd ]",
+      "forbade [ fə(r)ˈbæd ]",
+      "forbidden [ fəˈbɪd.ən ]",
+      "to order someone not to do something<br />\nto state that something is not allowed, according to a rule, law, or custom"
+    ],
+    [
+      "forecast [ ˈfɔːkɑːst ]",
+      "forecast [ ˈfɔːkɑːst ]",
+      "forecast [ ˈfɔːkɑːst ]",
+      "to say what you expect to happen in the future"
+    ],
+    [
+      "forget [ fəˈɡet ]",
+      "forgot [ fə(r)ˈɡɒt ]",
+      "forgotten [ fə(r)ˈɡɒt(ə)n ]",
+      "to be unable to remember a fact or piece of information<br />\nto not remember to do something that you intended to do"
+    ],
+    [
+      "forgive [ fəˈɡɪv ]",
+      "forgave [ fəˈɡeɪv ]",
+      "forgiven [ fə(r)ˈɡɪv(ə)n ]",
+      "to decide that you will not be angry with someone who has offended, upset, or harmed you"
+    ],
+    [
+      "freeze [ friːz ]",
+      "froze [ frəʊz ]",
+      "frozen [ ˈfrəʊzn ]",
+      "if water freezes, or if something freezes it, it gets very cold and changes into ice<br />\nto preserve food or drink by making it extremely cold in a freezer"
+    ],
+    [
+      "get [ ɡet ]",
+      "got [ ɡɒt ]",
+      "got* [ ɡɒt ]",
+      "to obtain, receive or be given something (never passive)<br />\nto go to a place and bring someone or something back",
+      "In spoken American English the past participle gotten [ɡɑːtn] is almost always used."
+    ],
+    [
+      "give [ ɡɪv ]",
+      "gave [ ɡeɪv ]",
+      "given [ ˈɡɪv.ən ]",
+      "to put something in someone’s hand, or to pass something to someone<br />\nto provide someone with something<br />\n"
+    ],
+    [
+      "go [ ɡəʊ ]",
+      "went [ went ]",
+      "gone [ ɡɒn ]",
+      "to move or travel from one place to another<br />\nto leave one place in order to reach another<br />\nto visit or attend a place for a particular purpose"
+    ],
+    [
+      "grow [ ɡrəʊ ]",
+      "grew [ ɡruː ]",
+      "grown [ ɡrəʊn ]",
+      "to increase in size, number, strength or quality<br />\nto become bigger or taller and develop into an adult (of people or animals)<br />\nif plants or trees grow, they develop and get larger or taller"
+    ],
+    [
+      "hang [ hæŋ ]",
+      "hung [ hʌŋ ]",
+      "hung [ hʌŋ ]",
+      "to attach something, or to be attached, at the top so that the lower part is free or loose<br />\nto attach something, especially a picture, to a hook on a wall"
+    ],
+    [
+      "have [ həv ]",
+      "had [ hæd ]",
+      "had [ hæd ]",
+      "to own, hold or possess something (not used in the progressive tenses) "
+    ],
+    [
+      "hear [ hɪər ]",
+      "heard [ hɜː(r)d ]",
+      "heard [ hɜː(r)d ]",
+      "to be aware of sounds with your ears (never progressive)<br />\nto receive information about something (not usually progressive)"
+    ],
+    [
+      "hide [ haɪd ]",
+      "hid [ hɪd ]",
+      "hidden [ ˈhɪd.ən ]",
+      "to put something in a place where it cannot be seen or found<br />\nto go to a place where you cannot be seen or found"
+    ],
+    [
+      "hit [ hɪt ]",
+      "hit [ hɪt ]",
+      "hit [ hɪt ]",
+      "to move quickly onto an object or surface, touching it with force<br />\nto affect something badly"
+    ],
+    [
+      "hold [ həʊld ]",
+      "held [ held ]",
+      "held [ held ]",
+      "to carry something using your hands or arms<br />\nto keep someone or something in a particular position"
+    ],
+    [
+      "hurt [ hɜːt ]",
+      "hurt [ hɜːt ]",
+      "hurt [ hɜːt ]",
+      "to feel pain somewhere in your body<br />\nto cause physical pain or injury<br />\nto make someone unhappy or upset"
+    ],
+    [
+      "keep [ kiːp ]",
+      "kept [ kept ]",
+      "kept [ kept ]",
+      "to stay in a state, position, or place without changing or moving<br />\nto do something many times, or to continue doing it<br />\nto continue to have or own something"
+    ],
+    [
+      "kneel [ niːl ]",
+      "knelt* [ nelt ]",
+      "knelt* [ nelt ]",
+      "to put one or both knees on the ground",
+      "Irregular forms kneel &#8211; knelt &#8211; knelt are common in British English. In American English this verb is also used as a regular verb: kneel &#8211; kneeled &#8211; kneeled."
+    ],
+    [
+      "knit [ nɪt ]",
+      "knit* [ nɪt ]",
+      "knit* [ nɪt ]",
+      "to make clothes using wool and two long needles to join the wool into rows<br />\nto join people or things closely together or to be joined closely together",
+      "This verb is more often used as a regular verb both in British and American English: knit &#8211; knitted &#8211; knitted. The irregular form knit is usually used in the following meanings of the verb: &#8216;to join people or things closely together&#8217; or &#8216;to grow together again to form one piece (of broken bones)&#8217;."
+    ],
+    [
+      "know [ nəʊ ]",
+      "knew [ njuː ]",
+      "known [ nəʊn ]",
+      "to have knowledge or information about something in your mind<br />\nto be familiar with a person, place, thing<br />\nto feel certain about something"
+    ],
+    [
+      "lay [ leɪ ]",
+      "laid [ leɪd ]",
+      "laid [ leɪd ]",
+      "to put someone or something down in a careful way<br />\nto put something into its correct position"
+    ],
+    [
+      "lead [ liːd ]",
+      "led [ led ]",
+      "led [ led ]",
+      "to show someone the way to a place by going there with them<br />\nto go in a particular direction or to a particular place"
+    ],
+    [
+      "lean [ liːn ]",
+      "leant* [ lent ]",
+      "leant* [ lent ]",
+      "to bend or move from a vertical position<br />\nto rest on or against something for support",
+      "In American English this verbs is used as a regular verb: lean &#8211; leaned &#8211; leaned. Irregular forms lean &#8211; leant &#8211; leant are common in British English. However, it can be used as a regular verb in British English too."
+    ],
+    [
+      "leap [ liːp ]",
+      "leapt* [ lept ]",
+      "leapt* [ lept ]",
+      "to jump high or a long way<br />\nto move or do something suddenly and quickly<br />\nto suddenly improve, increase, or progress",
+      "This verb is also used as a regular verb both in British and American English: leap &#8211; leaped &#8211; leaped. However, the irregular forms leap &#8211; leapt &#8211; leapt are more common in British English."
+    ],
+    [
+      "learn [ lɜːn ]",
+      "learnt* [ lɜː(r)nt ]",
+      "learnt* [ lɜː(r)nt ]",
+      "to gain knowledge or experience of something<br />\nto study and repeat something in order to be able to remember it<br />\nto gain new information about a situation, event, or person",
+      "The irregular forms learn &#8211; learnt &#8211; learnt are more common in British English. In American English this verb is used as a regular verb: learn &#8211; learned &#8211; learned."
+    ],
+    [
+      "leave [ liːv ]",
+      "left [ left ]",
+      "left [ left ]",
+      "to go away from a person or a place<br />\nto stop living at a place, belonging to a group, working for an employer<br />\nto put something somewhere, especially in a place where it will stay"
+    ],
+    [
+      "lend [ lend ]",
+      "lent [ lent ]",
+      "lent [ lent ]",
+      "to give someone something for a short time, expecting that they will give it back to you later."
+    ],
+    [
+      "let [ let ]",
+      "let [ let ]",
+      "let [ let ]",
+      "to allow something to happen<br />\nto give someone permission to do something"
+    ],
+    [
+      "lie [ laɪ ]",
+      "lay [ leɪ ]",
+      "lain [ leɪn ]",
+      "to be in a position in which your body is flat on a surface (of a person or an animal)<br />\nto be or remain in a flat position on a surface (of a thing)"
+    ],
+    [
+      "light [ laɪt ]",
+      "lit* [ lɪt ]",
+      "lit* [ lɪt ]",
+      "to make something start to burn<br />\nto give light to something or to a place",
+      "The irregular forms light &#8211; lit &#8211; lit are more often used both in British and American English. However, this verb can also be used as a regular verb: light &#8211; lighted &#8211; lighted. Lighted is usually used for the past participle, especially in front of nouns: a lighted road."
+    ],
+    [
+      "lose [ luːz ]",
+      "lost [ lɒst ]",
+      "lost [ lɒst ]",
+      "to be unable to find something or someone<br />\nto stop having something because it has been taken from you or destroyed<br />\nto not win a race, competition, fight "
+    ],
+    [
+      "make [ meɪk ]",
+      "made [ meɪd ]",
+      "made [ meɪd ]",
+      "to create or produce something by working<br />\nto cause someone or something to be in a particular state<br />\nto cause someone or something to do something<br />\n"
+    ],
+    [
+      "mean [ miːn ]",
+      "meant [ ment ]",
+      "meant [ ment ]",
+      "to have a particular meaning<br />\nto intend to express a fact or opinion<br />\nto have a particular result"
+    ],
+    [
+      "meet [ miːt ]",
+      "met [ met ]",
+      "met [ met ]",
+      "to come to the same place as someone else by arrangement or by chance<br />\nto see and speak to someone for the first time"
+    ],
+    [
+      "mow [ məʊ ]",
+      "mowed [ məʊd ]",
+      "mown [ məʊn ]",
+      "to cut grass using a machine or tool with blades"
+    ],
+    [
+      "pay [ peɪ ]",
+      "paid [ peɪd ]",
+      "paid [ peɪd ]",
+      "to give someone money for work, goods, services<br />\n"
+    ],
+    [
+      "put [ pʊt ]",
+      "put [ pʊt ]",
+      "put [ pʊt ]",
+      "to move something into a particular place or position<br />\nto write something or make a mark on something<br />\nto cause someone or something to be in a particular situation"
+    ],
+    [
+      "quit [ kwɪt ]",
+      "quit [ kwɪt ]",
+      "quit [ kwɪt ]",
+      "to leave a job or school permanently<br />\nto stop doing something"
+    ],
+    [
+      "read [ riːd ]",
+      "read [ red ]",
+      "read [ red ]",
+      "to look at words and understand what they mean<br />\nto discover or find out about someone or something by reading"
+    ],
+    [
+      "ride [ raɪd ]",
+      "rode [ rəʊd ]",
+      "ridden [ ˈrɪd.ən ]",
+      "to travel by sitting on a horse, bicycle, or motorcycle and controlling it<br />\nto travel in a vehicle, especially as a passenger"
+    ],
+    [
+      "ring [ rɪŋ ]",
+      "rang [ ræŋ ]",
+      "rung [ rʌŋ ]",
+      "to call someone by telephone<br />\nto make a bell produce a sound<br />\nto make a continuous loud high sound"
+    ],
+    [
+      "rise [ raɪz ]",
+      "rose [ rəʊz ]",
+      "risen [ ˈrɪzn ]",
+      "to move upwards or to a higher position<br />\nto get up from a lying, sitting or kneeling position<br />\nto increase in size, amount, quality, or strength"
+    ],
+    [
+      "run [ rʌn ]",
+      "ran [ ræn ]",
+      "run [ rʌn ]",
+      "to move quickly to a place using your legs and feet<br />\nto control and organize something such as a business, organization, or event<br />\nif a machine or engine runs, or if you run it, it is working"
+    ],
+    [
+      "saw [ sɔː ]",
+      "sawed [ sɔːd ]",
+      "sawn [ sɔːn ]",
+      "to cut something with a saw<br />\n"
+    ],
+    [
+      "say [ seɪ ]",
+      "said [ sed ]",
+      "said [ sed ]",
+      "to express something using words<br />\nto express an opinion on something<br />\nto give information in writing, numbers, or signs"
+    ],
+    [
+      "see [ siː ]",
+      "saw [ sɔː ]",
+      "seen [ siːn ]",
+      "to notice someone or something using your eyes (never progressive)<br />\nto meet or visit someone who you know by arrangement<br />\nto understand something (never progressive)"
+    ],
+    [
+      "seek [ siːk ]",
+      "sought [ sɔːt ]",
+      "sought [ sɔːt ]",
+      "to look for something or someone<br />\nto try to obtain or achieve something"
+    ],
+    [
+      "sell [ sel ]",
+      "sold [ səʊld ]",
+      "sold [ səʊld ]",
+      "to exchange something for money<br />\nto offer something for people to buy"
+    ],
+    [
+      "send [ send ]",
+      "sent [ sent ]",
+      "sent [ sent ]",
+      "to post a letter or parcel to someone<br />\nto tell someone something by sending them a message"
+    ],
+    [
+      "set [ set ]",
+      "set [ set ]",
+      "set [ set ]",
+      "to put someone or something in a position<br />\nto make a piece of equipment ready to operate<br />\nto arrange a time when something will happen"
+    ],
+    [
+      "sew [ səʊ ]",
+      "sewed [ səʊd ]",
+      "sewn [ səʊn ]",
+      "to use a needle and thread to make stitches in cloth<br />\nto make or repair clothes using a needle and thread"
+    ],
+    [
+      "shake [ ʃeɪk ]",
+      "shook [ ʃʊk ]",
+      "shaken [ ˈʃeɪkən ]",
+      "to make lots of quick small movements up and down, or side to side<br />\nto move your head from side to side to mean 'no'"
+    ],
+    [
+      "shine [ ʃaɪn ]",
+      "shone [ ʃɒn ]",
+      "shone [ ʃɒn ]",
+      "to produce or reflect light; to be bright<br />\nto have a bright attractive appearance"
+    ],
+    [
+      "shoot [ ʃuːt ]",
+      "shot [ ʃɒt ]",
+      "shot [ ʃɒt ]",
+      "to fire a gun or other weapon<br />\nto kill or wound a person or an animal with a bullet"
+    ],
+    [
+      "show [ ʃəʊ ]",
+      "showed [ ʃəʊd ]",
+      "shown [ ʃəʊn ]",
+      "to make something clear; to prove something<br />\nto let someone see something"
+    ],
+    [
+      "shrink [ ʃrɪŋk ]",
+      "shrank [ ʃræŋk ]",
+      "shrunk [ ʃrʌŋk ]",
+      "to become smaller in size<br />\nto become smaller in amount, value, or range"
+    ],
+    [
+      "shut [ ʃʌt ]",
+      "shut [ ʃʌt ]",
+      "shut [ ʃʌt ]",
+      "to close something, for example a door, window, or drawer<br />\n"
+    ],
+    [
+      "sing [ sɪŋ ]",
+      "sang [ sæŋ ]",
+      "sung [ sʌŋ ]",
+      "to make music using your voice<br />\nto make high musical sounds (of birds)"
+    ],
+    [
+      "sink [ sɪŋk ]",
+      "sank [ sæŋk ]",
+      "sunk [ sʌŋk ]",
+      "to disappear below the surface of the water<br />\nto move to a lower level"
+    ],
+    [
+      "sit [ sɪt ]",
+      "sat [ sæt ]",
+      "sat [ sæt ]",
+      "to rest your weight on your bottom with your back vertical, for example on/in a chair<br />\nto put someone in a sitting position"
+    ],
+    [
+      "sleep [ sliːp ]",
+      "slept [ slept ]",
+      "slept [ slept ]",
+      "to rest with your eyes closed and your mind and body not active<br />\n"
+    ],
+    [
+      "slide [ slaɪd ]",
+      "slid [ slɪd ]",
+      "slid [ slɪd ]",
+      "to move smoothly and quickly across a surface<br />\nto move quickly without anyone noticing you"
+    ],
+    [
+      "sling [ slɪŋ ]",
+      "slung [ slʌŋ ]",
+      "slung [ slʌŋ ]",
+      "to throw something somewhere with force or in a careless way<br />\nto put something somewhere where it hangs loosely (often passive)"
+    ],
+    [
+      "smell [ smel ]",
+      "smelt* [ smelt ]",
+      "smelt* [ smelt ]",
+      "to have a particular smell<br />\nto notice or recognize the smell of something (never progressive)<br />\nto experience the smell of something by putting your nose close to it",
+      "The irregular forms smell &#8211; smelt &#8211; smelt are common in British English. In American English this verb is used as a regular verb: smell &#8211; smelled &#8211; smelled."
+    ],
+    [
+      "sow [ səʊ ]",
+      "sowed [ səʊd ]",
+      "sown [ səʊn ]",
+      "to plant seeds in the ground"
+    ],
+    [
+      "speak [ spiːk ]",
+      "spoke [ spəʊk ]",
+      "spoken [ ˈspəʊkən ]",
+      "to talk to someone about something<br />\nto use your voice to talk<br />\nto be able to talk in a particular language"
+    ],
+    [
+      "speed [ spiːd ]",
+      "sped [ sped ]",
+      "sped [ sped ]",
+      "to move quickly<br />\nto drive a car faster than the fastest speed legally allowed"
+    ],
+    [
+      "spell [ spel ]",
+      "spelt* [ spelt ]",
+      "spelt* [ spelt ]",
+      "to say or write the letters of a word in the correct order",
+      "This verb is also used as a regular verb (more often in American English): spell &#8211; spelled &#8211; spelled. The irregular forms spell &#8211; spelt &#8211; spelt are more common in British English."
+    ],
+    [
+      "spend [ spend ]",
+      "spent [ spent ]",
+      "spent [ spent ]",
+      "to use money to pay for things<br />\nto use time doing something or being somewhere<br />\n"
+    ],
+    [
+      "spill [ spɪl ]",
+      "spilt [ spɪlt ]",
+      "spilt [ spɪlt ]",
+      "to accidentally pour a liquid out of its container"
+    ],
+    [
+      "spin [ spɪn ]",
+      "spun* [ spʌn ]",
+      "spun [ spʌn ]",
+      "to turn round and round quickly; to make something do this<br />\nto make thread by twisting together cotton, wool",
+      "You can also meet the form span for the past simple tense. This form is archaic both in British and American English. However, span is still used in contemporary British English but very rarely."
+    ],
+    [
+      "spit [ spɪt ]",
+      "spat* [ spæt ]",
+      "spat* [ spæt ]",
+      "to force liquid, food, etc. out of your mouth",
+      "The irregular forms spit &#8211; spit &#8211; spit are also sometimes used in American English."
+    ],
+    [
+      "split [ splɪt ]",
+      "split [ splɪt ]",
+      "split [ splɪt ]",
+      "to divide into smaller groups, or to divide people into smaller groups<br />\nto make a long thin cut or break in something"
+    ],
+    [
+      "spoil [ spɔɪl ]",
+      "spoilt* [ spɔɪlt ]",
+      "spoilt* [ spɔɪlt ]",
+      "to change something good into something bad, unpleasant, useless<br />\nto always allow a child to have or do everything that they want<br />\nto treat someone with a lot of care and kindness",
+      "In American English this verb is used as a regular verb: spoil &#8211; spoiled &#8211; spoiled. The irregular forms spoil &#8211; spoilt &#8211; spoilt are more common in British English. However, the regular forms are used in British English too."
+    ],
+    [
+      "spread [ spred ]",
+      "spread [ spred ]",
+      "spread [ spred ]",
+      "to gradually affect or cover a larger area<br />\nto cause someone or something to be in a number of different places"
+    ],
+    [
+      "spring [ sprɪŋ ]",
+      "sprang [ spræŋ ]",
+      "sprung [ sprʌŋ ]",
+      "to jump or move in a particular direction, quickly and with a lot of energy<br />\nto happen or appear somewhere suddenly or unexpectedly"
+    ],
+    [
+      "stand [ stænd ]",
+      "stood [ stʊd ]",
+      "stood [ stʊd ]",
+      "to be in a vertical position on your feet<br />\nto move from sitting or bending down into an upright position<br />\n"
+    ],
+    [
+      "steal [ stiːl ]",
+      "stole [ stəʊl ]",
+      "stolen [ ˈstəʊ.lən ]",
+      "to take something that belongs to someone else without permission"
+    ],
+    [
+      "stick [ stɪk ]",
+      "stuck [ stʌk ]",
+      "stuck [ stʌk ]",
+      "to push something long and thin into or through something else<br />\nto fix one thing to another, especially using a sticky substance such as glue"
+    ],
+    [
+      "sting [ stɪŋ ]",
+      "stung [ stʌŋ ]",
+      "stung [ stʌŋ ]",
+      "to touch your skin or make a very small hole in it so that you feel a sharp pain (of insects, plants)<br />\nto have or cause a sudden pain or uncomfortable feeling<br />\n"
+    ],
+    [
+      "stink [ stɪŋk ]",
+      "stank [ stæŋk ]",
+      "stunk [ stʌŋk ]",
+      "to have a strong, unpleasant smell<br />\nto seem very bad, unpleasant or dishonest"
+    ],
+    [
+      "strike [ straɪk ]",
+      "struck [ strʌk ]",
+      "struck [ strʌk ]",
+      "to hit someone or something hard or with force<br />\nto refuse to work, because of a disagreement over pay or conditions"
+    ],
+    [
+      "strive [ straɪv ]",
+      "strove [ strəʊv ]",
+      "striven [ ˈstrɪv(ə)n ]",
+      "to try very hard to achieve something"
+    ],
+    [
+      "swear [ sweə(r) ]",
+      "swore [ swɔːr ]",
+      "sworn [ swɔːn ]",
+      "to use rude or offensive language, usually because you are angry<br />\nto make a serious promise to do something<br />\n"
+    ],
+    [
+      "sweep [ swiːp ]",
+      "swept [ swept ]",
+      "swept [ swept ]",
+      "to clean the floor using a brush<br />\nto remove something from a surface using a brush, your hand<br />\nto move or spread quickly through an area"
+    ],
+    [
+      "swell [ swel ]",
+      "swelled [ sweld ]",
+      "swollen [ ˈswəʊlən ]",
+      "to become bigger or rounder<br />\nto increase or make something increase in number or size"
+    ],
+    [
+      "swim [ swɪm ]",
+      "swam [ swæm ]",
+      "swum [ swʌm ]",
+      "to move through water by making movements with your arms and legs<br />\n"
+    ],
+    [
+      "swing [ swɪŋ ]",
+      "swung [ swʌŋ ]",
+      "swung [ swʌŋ ]",
+      "to move smoothly backwards and forwards, or to make something do this<br />\nto move or make something move with a wide curved movement"
+    ],
+    [
+      "take [ teɪk ]",
+      "took [ tʊk ]",
+      "taken [ ˈteɪ.kən ]",
+      "to move something or someone from one place to another<br />\nto cause someone to move somewhere<br />\nto accept something that someone offers you"
+    ],
+    [
+      "teach [ tiːtʃ ]",
+      "taught [ tɔːt ]",
+      "taught [ tɔːt ]",
+      "to help students to learn something in a school, college, university by giving lessons<br />\nto show or explain to someone how to do something"
+    ],
+    [
+      "tear [ teə(r) ]",
+      "tore [ tɔːr ]",
+      "torn [ tɔːn ]",
+      "to pull something so that it separates into pieces or gets a hole in it<br />\nto become damaged in this way<br />\nto remove something by pulling it away from something else with force"
+    ],
+    [
+      "tell [ tel ]",
+      "told [ təʊld ]",
+      "told [ təʊld ]",
+      "to give information to someone by speaking or writing<br />\nto give information about something<br />\nto order or strongly advise someone to do something"
+    ],
+    [
+      "think [ θɪŋk ]",
+      "thought [ θɔːt ]",
+      "thought [ θɔːt ]",
+      "to believe something based on facts or ideas<br />\nto have a particular opinion about someone or something<br />\nto consider an idea or a problem"
+    ],
+    [
+      "throw [ θrəʊ ]",
+      "threw [ θruː ]",
+      "thrown [ θrəʊn ]",
+      "to use your hand to send an object through the air<br />\nto put something somewhere in a quick careless way<br />\nto move your body or part of it quickly or suddenly"
+    ],
+    [
+      "thrust [ θrʌst ]",
+      "thrust [ θrʌst ]",
+      "thrust [ θrʌst ]",
+      "to put something somewhere with a quick hard push"
+    ],
+    [
+      "tread [ tred ]",
+      "trod [ trɒd ]",
+      "trodden [ ˈtrɒd.ən ]",
+      "to put your foot down while you are stepping or walking (especially British)<br />\nto crush or press something with your feet"
+    ],
+    [
+      "understand [ ˌʌndəˈstænd ]",
+      "understood [ ˌʌn.dəˈstuːd ]",
+      "understood [ ˌʌn.dəˈstuːd ]",
+      "to know what someone or something means<br />\nto know why or how something happens or works<br />\nto know how someone feels or why they behave in a particular way"
+    ],
+    [
+      "wake [ weɪk ]",
+      "woke [ wəʊk ]",
+      "woken [ ˈwəʊ.kən ]",
+      "to stop sleeping<br />\nto make someone stop sleeping"
+    ],
+    [
+      "wear [ weə(r) ]",
+      "wore [ wɔːr ]",
+      "worn [ wɔːn ]",
+      "to have something on your body as clothing, decoration, or protection<br />\nto have a particular expression on your face<br />\n"
+    ],
+    [
+      "weave [ wiːv ]",
+      "wove [ wəʊv ]",
+      "woven [ ˈwəʊ.vən ]",
+      "to make cloth on a machine by crossing threads under and over each other"
+    ],
+    [
+      "weep [ wiːp ]",
+      "wept [ wept ]",
+      "wept [ wept ]",
+      "to cry because you feel unhappy or have some other strong emotion"
+    ],
+    [
+      "wet [ wet ]",
+      "wet* [ wet ]",
+      "wet* [ wet ]",
+      "to make something wet with water or another liquid",
+      "In British English this verb is also used as a regular verb: wet &#8211; wetted &#8211; wetted."
+    ],
+    [
+      "win [ wɪn ]",
+      "won [ wʌn ]",
+      "won [ wʌn ]",
+      "to defeat everyone else by being the best or by finishing first in a competition<br />\nto achieve or get something that you want, especially by your own efforts"
+    ],
+    [
+      "wind [ wɪnd ]",
+      "wound [ wuːnd ]",
+      "wound [ wuːnd ]",
+      "to wrap or twist something around itself or around something else<br />\nto have many bends and twists"
+    ],
+    [
+      "wring [ rɪŋ ]",
+      "wrung [ rʌŋ ]",
+      "wrung [ rʌŋ ]",
+      "to twist and squeeze something in order to remove liquid from it"
+    ],
+    [
+      "write [ raɪt ]",
+      "wrote [ rəʊt ]",
+      "written [ ˈrɪtn ]",
+      "to use a pen to make words, numbers, or symbols<br />\nto create something such as a story or song by putting words together"
+    ]
+  ]
+}

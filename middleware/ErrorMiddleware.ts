@@ -4,7 +4,7 @@ import { CustomError } from "../helper/CustomError";
 
 declare module "express-serve-static-core" {
   interface Response {
-    error?: typeof CustomError;
+    error: typeof CustomError;
   }
 }
 

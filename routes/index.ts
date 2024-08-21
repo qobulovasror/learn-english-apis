@@ -7,6 +7,7 @@ import home from './home'
 import IrregularVerbs from './irregular_verb';
 import CefrWords from './CEFR_words';
 import essensial_words from './essensial_words';
+import idioms from './ideoms';
 
 export default function Routes(app: Express){
     //middlewares
@@ -20,6 +21,7 @@ export default function Routes(app: Express){
     app.use('/api/irregular', IrregularVerbs);
     app.use('/api/cefrWords', CefrWords);
     app.use('/api/essensialWords', essensial_words);
+    app.use('/api/idioms', idioms);
 }
 
 
@@ -29,11 +31,11 @@ export default function Routes(app: Express){
 APIs
 
 1. so'zlar inglizcha o'zbekcha
-2. noto'g'ri fellar jadvali
+++ 2. noto'g'ri fellar jadvali
 3. Destination
 ++ 4. CEFR words
 ++ 5. Essensial words
 6. synonyms
-7. idioms
+++7. idioms
 
 */

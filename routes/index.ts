@@ -16,12 +16,12 @@ export default function Routes(app: Express) {
   app.use(bodyParser.urlencoded({ extended: true }));
   app.use(bodyParser.json());
   app.use(cors());
-  app.use(express.static('public'));
+  // app.use(express.static('public'));
 
   // Swagger Page
 
   const swaggerSpec = swaggerJsdoc(options);
-  app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
+  app.use('/', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
   // Documentation in JSON format
   app.get('/docs.json', (req, res) => {
     res.setHeader('Content-Type', 'application/json');
@@ -29,7 +29,7 @@ export default function Routes(app: Express) {
   });
 
   //routes
-  // app.use('/', home);
+  app.use('/', home);
   app.use('/api/irregular', IrregularVerbs);
   app.use('/api/cefrWords', CefrWords);
   app.use('/api/essentialWords', essensial_words);

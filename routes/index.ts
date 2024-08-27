@@ -21,7 +21,7 @@ export default function Routes(app: Express) {
   // Swagger Page
 
   const swaggerSpec = swaggerJsdoc(options);
-  app.use('/', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
+  app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
   // Documentation in JSON format
   app.get('/docs.json', (req, res) => {
     res.setHeader('Content-Type', 'application/json');

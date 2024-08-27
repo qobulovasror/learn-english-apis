@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
-    "build": "npx tsc",
+    "build": "npx tsc && copyfiles -u 1 data/*.json dist/data",
     "start": "node dist/index.js"
   },
   "author": "Qobulov Asror",
@@ -28,6 +28,7 @@
     "@types/swagger-jsdoc": "^6.0.4",
     "@types/swagger-ui-express": "^4.1.6",
     "@types/underscore": "^1.11.15",
+    "copyfiles": "^2.4.1",
     "nodemon": "^3.1.4",
     "typescript": "^5.5.4"
   }

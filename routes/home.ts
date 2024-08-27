@@ -4,7 +4,7 @@ const router = Router();
 
 router.get("/", async(req, res, next )=> {
   try {
-    res.render("index.html")
+    return res.redirect("/docs")
   } catch (error) {
     next(error)
   }
